@@ -7,6 +7,8 @@ A News App built using MVVM Architecture
 - Search news on any topic
 - Save any news article
 - Delete Saved Articles
+- Share News 
+- View news article in chrome tab intent
 
 
 ## Libraries and Dependencies
