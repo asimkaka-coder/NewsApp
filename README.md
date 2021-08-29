@@ -9,7 +9,7 @@ A News App built using MVVM Architecture
 - Delete Saved Articles
 
 
-## Libraries and Dependencies used
+## Libraries and Dependencies
 
 - Dagger Hilt
 - Retrofit
